@@ -1,0 +1,10 @@
+(lp0
+S'poi'
+p1
+aS'bonus'
+p2
+aS'exercised_stock_options'
+p3
+aS'corpus_score'
+p4
+a.

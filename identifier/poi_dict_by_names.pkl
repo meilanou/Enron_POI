@@ -1,0 +1,271 @@
+(dp0
+S'Howard, Kevin'
+p1
+(lp2
+S'kevin.howard@enron.net'
+p3
+aS'kevin.howard@gcm.com'
+p4
+aS'kevin.howard@enron.com'
+p5
+aS'kevin_a_howard.enronxgate.enron@enron.net'
+p6
+asS'Boyle, Dan'
+p7
+(lp8
+S'dan.boyle@enron.com'
+p9
+asS'CALGER CHRISTOPHER F'
+p10
+(lp11
+S'chris.calger@enron.com'
+p12
+aS'ccalger@enron.com'
+p13
+aS'christopher.calger@enron.com'
+p14
+aS'calger@enron.com'
+p15
+asS'BOWEN JR RAYMOND M'
+p16
+(lp17
+S'ray.bowen@enron.com'
+p18
+aS'raymond.bowen@enron.com'
+p19
+aS"'bowen@enron.com"
+p20
+asS'Lawyer, Larry'
+p21
+(lp22
+S'larry_lawyer@enron.com'
+p23
+aS'lawrence.lawyer@enron.com'
+p24
+aS'llawyer@enron.com'
+p25
+aS'larry.lawyer@enron.com'
+p26
+aS"lawyer'.'larry@enron.com"
+p27
+aS'lawrencelawyer@aol.com'
+p28
+asS'RICE KENNETH D'
+p29
+(lp30
+S'ken.rice@enron.com'
+p31
+aS"ken'.'rice@enron.com"
+p32
+aS'ken_rice@enron.net'
+p33
+aS'ken_rice@enron.com'
+p34
+asS'Fastow, Lea'
+p35
+(lp36
+S'lfastow@pdq.net'
+p37
+aS'lfastow@pop.pdq.net'
+p38
+asS'KOPPER MICHAEL J'
+p39
+(lp40
+S'michael.kopper@enron.com'
+p41
+asS'BELDEN TIMOTHY N'
+p42
+(lp43
+S'tbelden@enron.com'
+p44
+aS'tim.belden@enron.com'
+p45
+aS'tbelden@ect.enron.com'
+p46
+aS'tim_belden@pgn.com'
+p47
+asS'FASTOW ANDREW S'
+p48
+(lp49
+S'andy.fastow@enron.com'
+p50
+aS'andrew.fastow@enron.com'
+p51
+aS'andrew.s.fastow@enron.com'
+p52
+asS'Duncan, David'
+p53
+(lp54
+S'duncan.dave@enron.com'
+p55
+aS'dave.duncan@enron.com'
+p56
+aS'dave.duncan@cipco.org'
+p57
+asS'YEAGER F SCOTT'
+p58
+(lp59
+S'scott_yeager@enron.net'
+p60
+aS'syeager@flash.net'
+p61
+aS'scott.yeager@enron.com'
+p62
+aS'syeager@fyi-net.com'
+p63
+asS'HIRKO JOSEPH'
+p64
+(lp65
+S'joe.hirko@enron.com'
+p66
+aS"joe'.'hirko@enron.com"
+p67
+asS'Loehr, Christopher'
+p68
+(lp69
+S'cloehr@enron.com'
+p70
+aS'chris.loehr@enron.com'
+p71
+asS'Richter, Jeffrey'
+p72
+(lp73
+S'jeff.richter@enron.com'
+p74
+aS'jrichter@nwlink.com'
+p75
+asS'SHELBY REX'
+p76
+(lp77
+S'rex_shelby@enron.net'
+p78
+aS'rex.shelby@enron.com'
+p79
+aS'rex.shelby@enron.nt'
+p80
+asS'Forney, John'
+p81
+(lp82
+S'm..forney@enron.com'
+p83
+asS'DeSpain, Timothy'
+p84
+(lp85
+S'tim.despain@enron.com'
+p86
+aS'tim_despain.enronxgate.enron@enron.net'
+p87
+asS'COLWELL WESLEY'
+p88
+(lp89
+S'wes.colwell@enron.com'
+p90
+asS'Krautz, Michael'
+p91
+(lp92
+S'michael.krautz@enron.com'
+p93
+asS'SKILLING JEFFREY K'
+p94
+(lp95
+S'jeff.skilling@enron.com'
+p96
+aS'jskilling@enron.com'
+p97
+aS'jeff_skilling@enron.com'
+p98
+aS'jeffreyskilling@yahoo.com'
+p99
+aS'effrey.skilling@enron.com'
+p100
+aS'jeffrey.k.skilling@enron.com'
+p101
+aS'skilling@enron.com'
+p102
+asS'DELAINEY DAVID W'
+p103
+(lp104
+S'david.w.delainey@enron.com'
+p105
+aS'delainey.dave@enron.com'
+p106
+aS'david.delainey@enron.com'
+p107
+aS'dave.delainey@enron.com'
+p108
+aS"'david.delainey'@enron.com"
+p109
+aS"'delainey@enron.com"
+p110
+aS"delainey'.'david@enron.com"
+p111
+asS'KOENIG MARK E'
+p112
+(lp113
+S'mkoenig@enron.com'
+p114
+aS'mark.koenig@enron.com'
+p115
+asS'RIEKER PAULA H'
+p116
+(lp117
+S'prieker@enron.com'
+p118
+aS'paula.rieker@enron.com'
+p119
+asS'Brown, James'
+p120
+(lp121
+S'jbrown@enron.com'
+p122
+aS'james.brown@enron.com'
+p123
+asS'LAY KENNETH L'
+p124
+(lp125
+S'klay@enron.com'
+p126
+aS'kenneth.lay@enron.com'
+p127
+aS'chairman.ken@enron.com'
+p128
+aS'kenneth_lay@enron.net'
+p129
+aS'klay.enron@enron.com'
+p130
+aS'kenneth_lay@enron.com'
+p131
+aS'layk@enron.com'
+p132
+asS'HANNON KEVIN P'
+p133
+(lp134
+S"kevin'.'hannon@enron.com"
+p135
+aS'kevin.hannon@enron.com'
+p136
+aS'kevin_hannon@enron.com'
+p137
+aS'kevin_hannon@enron.net'
+p138
+asS'CAUSEY RICHARD A'
+p139
+(lp140
+S'rick.causey@enron.com'
+p141
+aS'rcausey@enron.com'
+p142
+aS'richard.causey@enron.com'
+p143
+asS'GLISAN JR BEN F'
+p144
+(lp145
+S'ben.glisan@enron.com'
+p146
+aS'ben_f_glisan@enron.com'
+p147
+aS'bglisan@enron.com'
+p148
+aS"ben'.'glisan@enron.com"
+p149
+as.

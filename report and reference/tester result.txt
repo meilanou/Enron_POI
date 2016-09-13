@@ -1,0 +1,17 @@
+Python 2.7.10 (default, May 23 2015, 09:40:32) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_neighbors=2, p=1, weights='distance')
+	Accuracy: 0.86247
+	Precision: 0.48302	Recall: 0.44800
+	F1: 0.46485	F2: 0.45459
+	Sensitivity: 0.44800	Specificity: 0.92623
+	Positive likelihood: 6.07299	Negative likelihood: 1.67795
+	Matthews Cor: 0.38643	Discrimination power: 1.27987
+	Total folds: 1000	Total predictions: 15000
+	True positives:  896	False positives:  959
+	False negatives: 1104	True negatives: 12041
+
+>>> 

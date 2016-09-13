@@ -1,0 +1,55 @@
+
+General code syntax references
+
+https://docs.python.org/2/library/
+http://www.tutorialspoint.com/python/
+http://pythoncentral.io/
+http://www.tutorialspoint.com/index.htm
+https://pymotw.com/2/
+http://www.nltk.org/index.html
+http://matplotlib.org/index.html
+http://pandas.pydata.org/pandas-docs/stable/index.html
+http://stackoverflow.com/
+
+
+
+Specific code block references
+
+https://nbviewer.ipython.org/gist/nikolay-shenkov
+http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+
+
+
+Technical reading
+
+https://en.wikipedia.org/wiki/Precision_and_recall
+https://en.wikipedia.org/wiki/Matthews_correlation_coefficient
+https://en.wikipedia.org/wiki/Likelihood_ratios_in_diagnostic_testing#positive_likelihood_ratio
+http://www.damienfrancois.be/blog/files/modelperfcheatsheet.pdf
+http://florianhartl.com/thoughts-on-machine-learning-dealing-with-skewed-classes.html
+https://www.quora.com/What-are-some-useful-ways-to-combine-text-and-numerical-features-in-a-training-set-for-a-machine-learning-algorithm
+
+
+
+Buiness reading
+
+https://en.wikipedia.org/wiki/Enron#Early_history
+http://law2.umkc.edu/faculty/projects/ftrials/enron/enronchronology.html
+http://www.cnn.com/2013/07/02/us/enron-fast-facts/
+http://www.nytimes.com/2002/03/01/business/enron-s-many-strands-executive-compensation-enron-paid-huge-bonuses-01-experts.html
+http://www.wsj.com/articles/SB1006963515929275680
+http://triblive.com/x/pittsburghtrib/business/s_482380.html
+https://en.wikipedia.org/wiki/California_electricity_crisis
+Executive Compensation Stress Test Findings (April 20, 2001)
+
+
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
+- Meilan Ou
+
+
+
+http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_iris.html
+http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#example-cluster-plot-kmeans-digits-py
+http://scott.fortmann-roe.com/docs/BiasVariance.html
